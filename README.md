@@ -3,7 +3,7 @@
 Bu projede, **Genetik Algoritma** kullanarak klasik **Gezgin Satıcı Problemini (TSP)** çözüyoruz.  
 30 farklı şehir koordinatına sahip bir rota problemi üzerinden çalışıyor, algoritmanın adım adım nasıl çalıştığını gösteriyoruz.
 
-🎬 **[Videoya Gitmek İçin Tıklayın](YouTube bağlantını buraya ekle)**
+🎬 **[Videoya Gitmek İçin Tıklayın](https://www.youtube.com/watch?v=xSBRPty6G3c)**
 
 ---
 
